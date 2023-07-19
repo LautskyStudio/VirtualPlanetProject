@@ -1,1 +1,1 @@
-# virtual_planet_project
+# Virtual Planet Project
